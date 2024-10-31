@@ -8,6 +8,8 @@ This repository serves as a playground for experimenting with Terraform.
 
 ### t-security-eks
 
+> [t-security-eks](./t-security-eks/README.md) is a Terraform project that demonstrates a secure and efficient architecture for deploying an EKS cluster on AWS.
+
 The T Security Demo architecture builds a cloud-based environment on AWS utilizing EKS (Elastic Kubernetes Service), focusing on security and efficiency. The main components are as follows:
 
 - VPC: A Virtual Private Cloud for secure resource management with public and private subnets.
